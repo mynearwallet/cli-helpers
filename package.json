@@ -1,0 +1,16 @@
+{
+  "name": "mnw-recover-pk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "near-api-js": "^0.45.1",
+    "near-seed-phrase": "^0.2.0",
+    "yargs": "^17.5.1"
+  }
+}
